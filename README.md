@@ -3,15 +3,12 @@
 
 Math magicians is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to make simple calculations and read a random math-related quote
 ## Built With
-
 - Javascript,
 - Node.js
 - weblint, eslint, hint
 
 ## Getting Started
 git clone https://github.com/GloireIrenge/Math_Magicians.git
-
-
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
